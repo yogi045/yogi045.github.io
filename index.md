@@ -1,13 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Yogesh Sharma Profile
 
 Looking forward to work in lively and competitive environment where I can use my personal skills professionally for the benefit of the organization, and accept challenging task and can learn more through guidance & experience.
 
-### Markdown
+### Synopsis:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+·	Working as a Module Lead at Mercer India Pvt. Ltd. (Gurgaon) From Jan 2018 to till now.
+·	Worked as a Software Developer at CSC India Pvt. Ltd. (Noida) From Jun 2015 to Jan 2018. 
+·	Worked at AR Software Pvt. Ltd (Faridabad) from Jun 2014 to Jun 2015.
+·	Having Good Knowledge of Web applications as well as Windows applications. 
+·	Good Knowledge on Object Oriented Programming. 
+·	Having good knowledge to Write Queries Using SQL Server 2008r2/2012. 
+·	Good analytical abilities, quick grasping power, zeal for learning new things 
+·	Good knowledge of Analysis, Development, Manual Testing and Documentation parts. 
+·	Expertise in full project life cycle development for implementation and integration.
+·	Deep understanding of technology with focus on delivering business solutions.
 
 # Header 1
 ## Header 2
